@@ -1,5 +1,7 @@
 # Predicting the Sentiments of Tweets using Machine Learning
 
+![image](images/sentiment_analysis_tweets.jpeg)
+
 ## Introduction
 
 Social media sites like Twitter/ X have become essential components of our everyday lives, acting as centers for communication and information in real time. Sentiment analysis provides information on trends, opinions, and attitudes about a wide range of subjects and areas. 
