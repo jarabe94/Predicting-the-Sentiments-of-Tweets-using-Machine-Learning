@@ -1,8 +1,9 @@
 # Predicting the Sentiments of Tweets using Machine Learning
 
-# Introduction
+Introduction
 
-# Load the data
+*Load the data*
+
 In this section, we will:
 
 Connect to Kaggle using an API and download the dataset.
