@@ -6,7 +6,7 @@ Social media sites like Twitter/ X have become essential components of our every
 
 In this project, we share our joint endeavor to examine the opinions conveyed in a tweets dataset and build a robust sentiment analysis pipeline to offer invaluable insights for understanding sentiment trends on Twitter/ X. We are going to solve the challenges of sentiment classification of tweets by developing several machine learning models to classify tweets into positive and negative sentiments.
 
-Relevance:
+Relevance of the Project:
 
 - Crisis Management: Our project can help organizations monitor social media for negative sentiments and respond accordingly in the event of a crisis.
   
@@ -17,7 +17,6 @@ Relevance:
 - Market Research: Our project can aid digital marketers in understanding customer’s behavior & preferences, thereby developing targeted campaigns.
 
 - Political Analysis: Our project can help political entities understand public opinion by monitoring social media, thereby tailoring their narrative accordingly.
-
 
 **Dataset Characteristics**
 
