@@ -12,7 +12,6 @@ Relevance of the Project:
 
 - **Crisis Management**: Our project can help organizations monitor social media for negative sentiments and respond accordingly in the event of a crisis.
 - **Reputation Management**: Our project can assist organizations in managing their reputation on social media by addressing negative reviews.
-- **Understanding Customer Feedback**: Our project can assist organizations in managing their reputation on social media in the event of negative reviews.
 - **Market Research**: Our project can aid digital marketers in understanding customer’s behavior & preferences, thereby developing targeted campaigns.
 - **Political Analysis**: Our project can help political entities understand public opinion by monitoring social media, thereby tailoring their narrative accordingly.
 
