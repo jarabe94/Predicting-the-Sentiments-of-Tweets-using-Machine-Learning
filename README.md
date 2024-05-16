@@ -128,6 +128,6 @@ Sentiment analysis on tweets holds significant importance in understanding publi
 
 Moving forward, further experimentation with different feature engineering techniques and model architectures could potentially enhance predictive performance. Furthermore, integrating the model into a web application or API can support real-time sentiment prediction.
 
-## Contributors
-Chris Portugalisa, Mohit Sharma, Siddharth Sawhney, Smill Valdez.
+<br/><br/>
+**Contributors**: Chris Portugalisa, Mohit Sharma, Siddharth Sawhney, Smill Valdez.
 
