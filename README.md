@@ -17,7 +17,7 @@ Relevance of the Project:
 
 ## Dataset Characteristics
 
-The dataset consists of six columns. Based on the initial examination, here's a brief overview:
+The dataset consists of six columns and 1.6M rows. Based on the initial examination, here's a brief overview:
 
 - **label**: Appears to be the target variable with integer values, likely indicating sentiment (e.g., 0 for negative, 1 for positive).
 - **tweet_id**: Contains the tweet ID (also an integer).
